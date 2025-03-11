@@ -1,6 +1,8 @@
 name: archive-runner
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 23 * * 3" # every wednesday @ 11pm utc
 
 jobs:
   main:
