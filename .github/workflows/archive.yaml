@@ -1,0 +1,57 @@
+name: archive-runner
+on:
+  workflow_dispatch:
+
+jobs:
+  main:
+    runs-on: macOS-latest
+    env:
+      FEEDLY_PSWD: ${{ secrets.FEEDLY_PSWD }} 
+      FEEDLY_EMAIL: ${{ secrets.FEEDLY_EMAIL }} 
+    steps:
+      - name: checkout repo content
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements*.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+        
+      - name: Log into Feedly and download OPML file
+        run: jupyter nbconvert --execute main.ipynb --to notebook
+
+      - name: verify
+        run: ls -lha
+
+      - name: Configure Git user
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+      
+      - name: Commit
+        continue-on-error: true
+        run: |
+          git add feedly.opml
+          git commit -m "cron job update"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
