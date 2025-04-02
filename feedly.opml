@@ -17,7 +17,6 @@
             <outline type="rss" text="Phoboslab (Dominic Szablewski)" title="Phoboslab (Dominic Szablewski)" xmlUrl="https://phoboslab.org/log/feed" htmlUrl="https://phoboslab.org/log"/>
             <outline type="rss" text="the jsomers.net blog" title="the jsomers.net blog" xmlUrl="https://jsomers.net/blog/feed" htmlUrl="https://jsomers.net/blog"/>
             <outline type="rss" text="The Art of Mr.Werewolf" title="The Art of Mr.Werewolf" xmlUrl="http://jakubrozalski.tumblr.com/rss" htmlUrl="https://jakubrozalski.tumblr.com/"/>
-            <outline type="rss" text="Andrew Alexander Price" title="Andrew Alexander Price" xmlUrl="http://www.andrewalexanderprice.com/blog.rss" htmlUrl="http://andrewalexanderprice.com/blog.php"/>
             <outline type="rss" text="Paul Butler" title="Paul Butler" xmlUrl="https://paulbutler.org/posts/index.xml" htmlUrl="https://paulbutler.org/posts/"/>
             <outline type="rss" text="the singularity is nearer" title="the singularity is nearer" xmlUrl="https://geohot.github.io/blog/feed.xml" htmlUrl="https://geohot.github.io//blog/"/>
             <outline type="rss" text="Braden" title="Braden" xmlUrl="http://imbradenolsen.tumblr.com/rss" htmlUrl="https://imbradenolsen.tumblr.com/"/>
@@ -62,7 +61,8 @@
             <outline type="rss" text="while out riding" title="while out riding" xmlUrl="http://whileoutriding.tumblr.com/rss" htmlUrl="https://whileoutriding.tumblr.com/"/>
             <outline type="rss" text="MHPVA News Blog" title="MHPVA News Blog" xmlUrl="http://mhpva.blogspot.com/feeds/posts/default" htmlUrl="http://mhpva.blogspot.com/"/>
         </outline>
-        <outline text="urban design" title="urban design">
+        <outline text="urban planning / design" title="urban planning / design">
+            <outline type="rss" text="Andrew Alexander Price" title="Andrew Alexander Price" xmlUrl="http://www.andrewalexanderprice.com/blog.rss" htmlUrl="http://andrewalexanderprice.com/blog.php"/>
             <outline type="rss" text="B4place" title="B4place" xmlUrl="https://www.b4place.com/feed/" htmlUrl="https://www.b4place.com/"/>
             <outline type="rss" text="Notes from the Underground" title="Notes from the Underground" xmlUrl="http://thestile1972.tumblr.com/rss" htmlUrl="https://thestile1972.tumblr.com/"/>
             <outline type="rss" text="GreenCityBlueLake" title="GreenCityBlueLake" xmlUrl="http://www.gcbl.org/blog/rss" htmlUrl="http://www.gcbl.org"/>
@@ -104,7 +104,7 @@
         <outline text="kayaking" title="kayaking">
             <outline type="rss" text="Wind Against Current" title="Wind Against Current" xmlUrl="http://windagainstcurrent.com/feed/" htmlUrl="https://windagainstcurrent.com"/>
         </outline>
-        <outline text="cin" title="cin">
+        <outline text="cincy" title="cincy">
             <outline type="rss" text="Queen City Discovery - Ronny Salerno" title="Queen City Discovery - Ronny Salerno" xmlUrl="https://ronnysalerno.com/queencitydiscovery?format=rss" htmlUrl="https://ronnysalerno.com/queencitydiscovery/"/>
             <outline type="rss" text="Soapbox Media" title="Soapbox Media" xmlUrl="http://feeds.feedburner.com/soapboxmedia"/>
             <outline type="rss" text="Cincinnati Blog" title="Cincinnati Blog" xmlUrl="http://cincinnati.blogspot.com/atom.xml" htmlUrl="https://www.cincyblog.com/"/>
@@ -146,7 +146,7 @@
         <outline text="golang" title="golang">
             <outline type="rss" text="Abhinav Gupta" title="Abhinav Gupta" xmlUrl="https://abhinavg.net/posts/index.xml" htmlUrl="https://abhinavg.net/"/>
         </outline>
-        <outline text="det" title="det">
+        <outline text="detroit" title="detroit">
             <outline type="rss" text="Detroit Urbanism" title="Detroit Urbanism" xmlUrl="http://detroiturbanism.blogspot.com/feeds/posts/default" htmlUrl="http://detroiturbanism.blogspot.com/"/>
             <outline type="rss" text="Odyssey Detroit" title="Odyssey Detroit" xmlUrl="http://odysseydetroit.tumblr.com/rss" htmlUrl="https://odysseydetroit.tumblr.com/"/>
             <outline type="rss" text="IT Information" title="IT Information" xmlUrl="http://rebelmetropolis.org/feed/" htmlUrl="https://rebelmetropolis.org"/>
