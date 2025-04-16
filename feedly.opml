@@ -60,6 +60,9 @@
             <outline type="rss" text="while out riding" title="while out riding" xmlUrl="http://whileoutriding.tumblr.com/rss" htmlUrl="https://whileoutriding.tumblr.com/"/>
             <outline type="rss" text="MHPVA News Blog" title="MHPVA News Blog" xmlUrl="http://mhpva.blogspot.com/feeds/posts/default" htmlUrl="http://mhpva.blogspot.com/"/>
         </outline>
+        <outline text="viz" title="viz">
+            <outline type="rss" text="The Pudding" title="The Pudding" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool"/>
+        </outline>
         <outline text="urban planning / design" title="urban planning / design">
             <outline type="rss" text="Andrew Alexander Price" title="Andrew Alexander Price" xmlUrl="http://www.andrewalexanderprice.com/blog.rss" htmlUrl="http://andrewalexanderprice.com/blog.php"/>
             <outline type="rss" text="B4place" title="B4place" xmlUrl="https://www.b4place.com/feed/" htmlUrl="https://www.b4place.com/"/>
@@ -74,6 +77,9 @@
             <outline type="rss" text="Blog - B4place" title="Blog - B4place" xmlUrl="https://www.b4place.com/blog/feed/" htmlUrl="https://www.b4place.com/blog/"/>
             <outline type="rss" text="Old Urbanist" title="Old Urbanist" xmlUrl="http://oldurbanist.blogspot.com/feeds/posts/default" htmlUrl="https://oldurbanist.blogspot.com/"/>
             <outline type="rss" text="McMansion Hell" title="McMansion Hell" xmlUrl="http://mcmansionhell.tumblr.com/rss" htmlUrl="https://mcmansionhell.com/"/>
+        </outline>
+        <outline text="long-form" title="long-form">
+            <outline type="rss" text="NOEMA" title="NOEMA" xmlUrl="https://www.noemamag.com/feed/" htmlUrl="https://www.noemamag.com"/>
         </outline>
         <outline text="ds" title="ds">
             <outline type="rss" text="nathancunn" title="nathancunn" xmlUrl="http://www.nathancunn.com/feed.xml" htmlUrl="http://www.nathancunn.com"/>
