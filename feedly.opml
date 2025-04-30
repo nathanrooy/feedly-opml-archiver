@@ -64,19 +64,18 @@
             <outline type="rss" text="The Pudding" title="The Pudding" xmlUrl="https://pudding.cool/rss.xml" htmlUrl="https://pudding.cool"/>
         </outline>
         <outline text="urban planning / design" title="urban planning / design">
+            <outline type="rss" text="Urban kchoze" title="Urban kchoze" xmlUrl="http://urbankchoze.blogspot.com/feeds/posts/default" htmlUrl="http://urbankchoze.blogspot.com/"/>
             <outline type="rss" text="Andrew Alexander Price" title="Andrew Alexander Price" xmlUrl="http://www.andrewalexanderprice.com/blog.rss" htmlUrl="http://andrewalexanderprice.com/blog.php"/>
             <outline type="rss" text="B4place" title="B4place" xmlUrl="https://www.b4place.com/feed/" htmlUrl="https://www.b4place.com/"/>
             <outline type="rss" text="Notes from the Underground" title="Notes from the Underground" xmlUrl="http://thestile1972.tumblr.com/rss" htmlUrl="https://thestile1972.tumblr.com/"/>
-            <outline type="rss" text="GreenCityBlueLake" title="GreenCityBlueLake" xmlUrl="http://www.gcbl.org/blog/rss" htmlUrl="http://www.gcbl.org"/>
-            <outline type="rss" text="Urban Spatial" title="Urban Spatial" xmlUrl="http://urbanspatialanalysis.com/feed/" htmlUrl="https://urbanspatialanalysis.com"/>
-            <outline type="rss" text="Market Urbanism" title="Market Urbanism" xmlUrl="http://feeds.feedburner.com/MarketUrbanism" htmlUrl="https://marketurbanism.com"/>
-            <outline type="rss" text="Urban kchoze" title="Urban kchoze" xmlUrl="http://urbankchoze.blogspot.com/feeds/posts/default" htmlUrl="http://urbankchoze.blogspot.com/"/>
-            <outline type="rss" text="Pedestrian Observations" title="Pedestrian Observations" xmlUrl="http://pedestrianobservations.wordpress.com/feed/" htmlUrl="https://pedestrianobservations.com"/>
             <outline type="rss" text="Granola Shotgun" title="Granola Shotgun" xmlUrl="https://www.granolashotgun.com/granolashotguncom?format=rss" htmlUrl="https://www.granolashotgun.com/"/>
+            <outline type="rss" text="GreenCityBlueLake" title="GreenCityBlueLake" xmlUrl="http://www.gcbl.org/blog/rss" htmlUrl="http://www.gcbl.org"/>
             <outline type="rss" text="Geoff Boeing" title="Geoff Boeing" xmlUrl="http://geoffboeing.com/feed/" htmlUrl="https://geoffboeing.com"/>
+            <outline type="rss" text="Urban Spatial" title="Urban Spatial" xmlUrl="http://urbanspatialanalysis.com/feed/" htmlUrl="https://urbanspatialanalysis.com"/>
             <outline type="rss" text="Blog - B4place" title="Blog - B4place" xmlUrl="https://www.b4place.com/blog/feed/" htmlUrl="https://www.b4place.com/blog/"/>
             <outline type="rss" text="Old Urbanist" title="Old Urbanist" xmlUrl="http://oldurbanist.blogspot.com/feeds/posts/default" htmlUrl="https://oldurbanist.blogspot.com/"/>
             <outline type="rss" text="McMansion Hell" title="McMansion Hell" xmlUrl="http://mcmansionhell.tumblr.com/rss" htmlUrl="https://mcmansionhell.com/"/>
+            <outline type="rss" text="Market Urbanism" title="Market Urbanism" xmlUrl="http://feeds.feedburner.com/MarketUrbanism" htmlUrl="https://marketurbanism.com"/>
         </outline>
         <outline text="long-form" title="long-form">
             <outline type="rss" text="NOEMA" title="NOEMA" xmlUrl="https://www.noemamag.com/feed/" htmlUrl="https://www.noemamag.com"/>
