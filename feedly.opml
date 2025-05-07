@@ -142,6 +142,7 @@
             <outline type="rss" text="bitbanging" title="bitbanging" xmlUrl="http://www.bitbanging.space/feed.xml" htmlUrl="https://www.bitbanging.space/"/>
             <outline type="rss" text="Modern Descartes - Essays by Brian Lee" title="Modern Descartes - Essays by Brian Lee" xmlUrl="http://moderndescartes.com/essays/rss.xml" htmlUrl="https://www.moderndescartes.com/essays"/>
             <outline type="rss" text="Blog - Amy Goodchild" title="Blog - Amy Goodchild" xmlUrl="https://www.amygoodchild.com/blog?format=rss" htmlUrl="https://www.amygoodchild.com/blog/"/>
+            <outline type="rss" text="Christopher Butler" title="Christopher Butler" xmlUrl="https://www.chrbutler.com/feed.rss" htmlUrl="https://www.chrbutler.com"/>
             <outline type="rss" text="devonzuegel.com" title="devonzuegel.com" xmlUrl="http://devonzuegel.com/feed.xml" htmlUrl="http://devon.postach.io/"/>
             <outline type="rss" text="Dean Markwick" title="Dean Markwick" xmlUrl="https://dm13450.github.io/feed.xml" htmlUrl="https://dm13450.github.io/"/>
             <outline type="rss" text="Plotting The Curiosity Vector" title="Plotting The Curiosity Vector" xmlUrl="http://www.giacomomiceli.com/blog/feed/" htmlUrl="https://jamez.it/blog"/>
