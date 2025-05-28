@@ -22,7 +22,7 @@
             <outline type="rss" text="Braden" title="Braden" xmlUrl="http://imbradenolsen.tumblr.com/rss" htmlUrl="https://imbradenolsen.tumblr.com/"/>
             <outline type="rss" text="Once Upon A Time In The West" title="Once Upon A Time In The West" xmlUrl="http://lasplayaslasmontanas.tumblr.com/rss" htmlUrl="https://lasplayaslasmontanas.tumblr.com/"/>
             <outline type="rss" text="eieio.games" title="eieio.games" xmlUrl="https://eieio.games/feed.xml" htmlUrl="https://eieio.games"/>
-            <outline type="rss" text="Nathan Rooy" title="Nathan Rooy" xmlUrl="https://nathanrooy.github.io/index.xml" htmlUrl="https://nathan.fun/"/>
+            <outline type="rss" text="Nathan Rooy" title="Nathan Rooy" xmlUrl="https://nathanrooy.github.io/index.xml" htmlUrl="https://nathan.fun/?utm_medium=rss"/>
             <outline type="rss" text="Eli Dourado" title="Eli Dourado" xmlUrl="https://elidourado.com/index.xml" htmlUrl="https://elidourado.com/"/>
             <outline type="rss" text="Cal Paterson" title="Cal Paterson" xmlUrl="http://calpaterson.com/calpaterson.rss" htmlUrl="https://calpaterson.com/calpaterson.rss"/>
             <outline type="rss" text="Jay Mody Blog" title="Jay Mody Blog" xmlUrl="https://jaykmody.com/feed.xml" htmlUrl="https://jaykmody.com"/>
@@ -75,7 +75,7 @@
             <outline type="rss" text="Blog - B4place" title="Blog - B4place" xmlUrl="https://www.b4place.com/blog/feed/" htmlUrl="https://www.b4place.com/blog/"/>
             <outline type="rss" text="Old Urbanist" title="Old Urbanist" xmlUrl="http://oldurbanist.blogspot.com/feeds/posts/default" htmlUrl="https://oldurbanist.blogspot.com/"/>
             <outline type="rss" text="McMansion Hell" title="McMansion Hell" xmlUrl="http://mcmansionhell.tumblr.com/rss" htmlUrl="https://mcmansionhell.com/"/>
-            <outline type="rss" text="Market Urbanism" title="Market Urbanism" xmlUrl="http://feeds.feedburner.com/MarketUrbanism" htmlUrl="https://marketurbanism.com"/>
+            <outline type="rss" text="User's blog" title="User's blog" xmlUrl="http://feeds.feedburner.com/MarketUrbanism" htmlUrl="https://marketurbanism.com"/>
         </outline>
         <outline text="long-form" title="long-form">
             <outline type="rss" text="NOEMA" title="NOEMA" xmlUrl="https://www.noemamag.com/feed/" htmlUrl="https://www.noemamag.com"/>
