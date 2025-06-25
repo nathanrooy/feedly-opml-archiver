@@ -118,6 +118,7 @@
             <outline type="rss" text="UrbanCincy" title="UrbanCincy" xmlUrl="http://www.urbancincy.com/feeds/posts/default" htmlUrl="https://www.urbancincy.com"/>
             <outline type="rss" text="Greg Hand - Cincinnati Curiosities" title="Greg Hand - Cincinnati Curiosities" xmlUrl="http://handeaux.tumblr.com/rss" htmlUrl="https://handeaux.tumblr.com/"/>
             <outline type="rss" text="Hoperatives" title="Hoperatives" xmlUrl="http://www.hoperatives.com/?feed=rss2" htmlUrl="https://www.hoperatives.com"/>
+            <outline type="rss" text="Coalition for Transit and Sustainable Development" title="Coalition for Transit and Sustainable Development" xmlUrl="https://www.sustainablecincy.org/news?format=rss" htmlUrl="https://www.sustainablecincy.org/news/"/>
             <outline type="rss" text="The Cincinnati Monocle" title="The Cincinnati Monocle" xmlUrl="http://cincinnatimonocle.blogspot.com/feeds/posts/default" htmlUrl="http://cincinnatimonocle.blogspot.com/"/>
             <outline type="rss" text="Spring in Our Steps" title="Spring in Our Steps" xmlUrl="http://springinoursteps.wordpress.com/feed/" htmlUrl="https://springinoursteps.com"/>
             <outline type="rss" text="Ohio Festivals" title="Ohio Festivals" xmlUrl="http://ohiofestivals.net/feed/" htmlUrl="https://ohiofestivals.net/"/>
@@ -134,14 +135,16 @@
         <outline text="web" title="web">
             <outline type="rss" text="1MB Club" title="1MB Club" xmlUrl="https://1mb.club/atom.xml" htmlUrl="https://1mb.club/"/>
         </outline>
-        <outline text="temp" title="temp">
+        <outline text="new-candidates" title="new-candidates">
             <outline type="rss" text="Modern Descartes - Essays by Brian Lee" title="Modern Descartes - Essays by Brian Lee" xmlUrl="http://moderndescartes.com/essays/rss.xml" htmlUrl="https://www.moderndescartes.com/essays"/>
             <outline type="rss" text="Blog - Amy Goodchild" title="Blog - Amy Goodchild" xmlUrl="https://www.amygoodchild.com/blog?format=rss" htmlUrl="https://www.amygoodchild.com/blog/"/>
             <outline type="rss" text="Christopher Butler" title="Christopher Butler" xmlUrl="https://www.chrbutler.com/feed.rss" htmlUrl="https://www.chrbutler.com"/>
             <outline type="rss" text="Dean Markwick" title="Dean Markwick" xmlUrl="https://dm13450.github.io/feed.xml" htmlUrl="https://dm13450.github.io/"/>
+            <outline type="rss" text="Hold The Robot Blog" title="Hold The Robot Blog" xmlUrl="https://holdtherobot.com/blog/rss.xml" htmlUrl="https://holdtherobot.com/blog"/>
             <outline type="rss" text="Plotting The Curiosity Vector" title="Plotting The Curiosity Vector" xmlUrl="http://www.giacomomiceli.com/blog/feed/" htmlUrl="https://jamez.it/blog"/>
             <outline type="rss" text="Blog on Miloš Jeremić" title="Blog on Miloš Jeremić" xmlUrl="https://milosjeremic.com/blog/index.xml" htmlUrl="https://milosjeremic.com/blog/"/>
             <outline type="rss" text="mike.place" title="mike.place" xmlUrl="https://mike.place/index.xml" htmlUrl="https://mike.place/"/>
+            <outline type="rss" text="Quarter Mile" title="Quarter Mile" xmlUrl="https://quarter--mile.com/rss" htmlUrl="https://quarter--mile.com"/>
             <outline type="rss" text="LOW←TECH MAGAZINE English" title="LOW←TECH MAGAZINE English" xmlUrl="https://solar.lowtechmagazine.com/posts/index.xml" htmlUrl="https://solar.lowtechmagazine.com/posts/"/>
             <outline type="rss" text="unixdigest.com" title="unixdigest.com" xmlUrl="https://unixsheikh.com/feed.rss" htmlUrl="https://unixdigest.com"/>
             <outline type="rss" text="parker higgins dot net" title="parker higgins dot net" xmlUrl="https://parkerhiggins.net/feed.xml" htmlUrl="https://parkerhiggins.net/"/>
