@@ -16,7 +16,6 @@
             <outline type="rss" text="Matt’s Ramblings" title="Matt’s Ramblings" xmlUrl="http://matthewearl.github.io/feed.xml" htmlUrl="http://matthewearl.github.io/"/>
             <outline type="rss" text="Phoboslab (Dominic Szablewski)" title="Phoboslab (Dominic Szablewski)" xmlUrl="https://phoboslab.org/log/feed" htmlUrl="https://phoboslab.org/log"/>
             <outline type="rss" text="the jsomers.net blog" title="the jsomers.net blog" xmlUrl="https://jsomers.net/blog/feed" htmlUrl="https://jsomers.net/blog"/>
-            <outline type="rss" text="The Art of Mr.Werewolf" title="The Art of Mr.Werewolf" xmlUrl="http://jakubrozalski.tumblr.com/rss" htmlUrl="https://jakubrozalski.tumblr.com/"/>
             <outline type="rss" text="Paul Butler" title="Paul Butler" xmlUrl="https://paulbutler.org/posts/index.xml" htmlUrl="https://paulbutler.org/posts/"/>
             <outline type="rss" text="the singularity is nearer" title="the singularity is nearer" xmlUrl="https://geohot.github.io/blog/feed.xml" htmlUrl="https://geohot.github.io//blog/"/>
             <outline type="rss" text="Braden" title="Braden" xmlUrl="http://imbradenolsen.tumblr.com/rss" htmlUrl="https://imbradenolsen.tumblr.com/"/>
@@ -85,7 +84,6 @@
             <outline type="rss" text="Data Origami (Cameron Davidson-Pilon)" title="Data Origami (Cameron Davidson-Pilon)" xmlUrl="https://dataorigami.net/feed.xml" htmlUrl="https://dataorigami.net/"/>
             <outline type="rss" text="Variance Explained" title="Variance Explained" xmlUrl="http://varianceexplained.org/feed.xml" htmlUrl="http://varianceexplained.org"/>
             <outline type="rss" text="The Unofficial Google Data Science Blog" title="The Unofficial Google Data Science Blog" xmlUrl="http://www.unofficialgoogledatascience.com/feeds/posts/default" htmlUrl="https://www.unofficialgoogledatascience.com/"/>
-            <outline type="rss" text="I Quant NY" title="I Quant NY" xmlUrl="http://iquantny.tumblr.com/rss" htmlUrl="https://iquantny.tumblr.com/"/>
             <outline type="rss" text="Todd W. Schneider" title="Todd W. Schneider" xmlUrl="http://toddwschneider.com/atom.xml" htmlUrl="https://toddwschneider.com/"/>
             <outline type="rss" text="大トロ" title="大トロ" xmlUrl="http://blog.otoro.net/feed.xml" htmlUrl="https://blog.otoro.net/"/>
             <outline type="rss" text="Chris McCormick" title="Chris McCormick" xmlUrl="http://chrisjmccormick.wordpress.com/feed/" htmlUrl="https://chrisjmccormick.wordpress.com"/>
@@ -96,6 +94,7 @@
         <outline text="art" title="art">
             <outline type="rss" text="Hugo Shoots Film" title="Hugo Shoots Film" xmlUrl="https://hugohunt.tumblr.com/rss" htmlUrl="https://hugohunt.tumblr.com/"/>
             <outline type="rss" text="Florian Markus" title="Florian Markus" xmlUrl="https://florianmarkus.com/rss" htmlUrl="https://florianmarkus.com"/>
+            <outline type="rss" text="The Art of Mr.Werewolf" title="The Art of Mr.Werewolf" xmlUrl="http://jakubrozalski.tumblr.com/rss" htmlUrl="https://jakubrozalski.tumblr.com/"/>
         </outline>
         <outline text="plotting" title="plotting">
             <outline type="rss" text="PENTRONIK.ART" title="PENTRONIK.ART" xmlUrl="https://www.pentronik.art/atom.xml" htmlUrl="https://www.pentronik.art/"/>
@@ -103,6 +102,9 @@
         <outline text="ml" title="ml">
             <outline type="rss" text="Lil’Log" title="Lil’Log" xmlUrl="https://lilianweng.github.io/lil-log/feed.xml" htmlUrl="https://lilianweng.github.io/lil-log/"/>
             <outline type="rss" text="Ryan Moulton's Articles" title="Ryan Moulton's Articles" xmlUrl="http://moultano.wordpress.com/feed/" htmlUrl="https://moultano.wordpress.com"/>
+        </outline>
+        <outline text="nyc" title="nyc">
+            <outline type="rss" text="I Quant NY" title="I Quant NY" xmlUrl="http://iquantny.tumblr.com/rss" htmlUrl="https://iquantny.tumblr.com/"/>
         </outline>
         <outline text="kayaking" title="kayaking">
             <outline type="rss" text="Wind Against Current" title="Wind Against Current" xmlUrl="http://windagainstcurrent.com/feed/" htmlUrl="https://windagainstcurrent.com"/>
